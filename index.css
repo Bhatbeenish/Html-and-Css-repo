@@ -1,0 +1,30 @@
+h1{
+	color:rgb(153,0,0);
+	font-size: 2cm;
+	margin-bottom: 3cm;
+	text-align: center;
+	text-decorate: underline;
+}
+table{
+	margin: .3cm;
+	width: 290px;
+	border: .1cm;
+}
+th{
+	padding: .2cm;
+}
+
+td{
+	background-color: #ffc;
+	color: crimson;
+	border: 1px solid rgb(233, 26, 140);
+	padding-left: .5cm;
+	padding-right: .5cm;
+}
+#trHeader{
+	color: rgb(40, 197, 19);
+	text-decoration: underline;
+}
+.centreCell{
+	text-align: centre;
+}
